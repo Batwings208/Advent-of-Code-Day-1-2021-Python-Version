@@ -5,4 +5,5 @@ You may use any type of programming language but I used Python in this case.
 Please do not use this to cheat your way up, this is for educational purposes to help you understand.
 
 
-Website Link if you need it ------ https://adventofcode.com 
+Website Link if you need it ------ https://adventofcode.com
+Thanks for visiting! 😊
